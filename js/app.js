@@ -148,7 +148,7 @@
 
   // Position "y" where the enemies will are created
   var enemyPosition = [59, 139, 220, 63];
-  //var player = new Player(200, 380, 50);
+
   var enemy;
 
   //For each enemy create and pucsh new enemy object into above array
